@@ -3,7 +3,7 @@
 This is a React-based weather application that provides users with information about the current weather in their location. It leverages the power of generative AI by using GPT-3.5 Turbo to enhance the user experience. Users can ask for advice on what to wear, and the app provides them with the temperature in Celsius, Fahrenheit, or Kelvin, depending on their region, along with a short description of what to wear based on the weather.
 
 
-![Weather App](/public/im2.PNG)
+![Weather App](/imgs/im2.PNG)
 
 ## Features
 
@@ -13,7 +13,7 @@ This is a React-based weather application that provides users with information a
 - Provide temperature in Celsius, Fahrenheit, or Kelvin based on user preference
 - Suggest appropriate clothing based on the weather conditions
 
-![Weather App](/public/im1.PNG)
+![Weather App](/imgs/im1.PNG)
 
 ## Installation
 
